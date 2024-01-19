@@ -1,5 +1,5 @@
 # day 5
-
+Begin
 run in day
 def find_max_element(lst):
     if not lst:
