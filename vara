@@ -1,6 +1,6 @@
 # DAy Pq
 Begin
-run in day
+run in days
 def find_max_element(lst):
     if not lst:
         return None  # Return None for an empty list Not 
