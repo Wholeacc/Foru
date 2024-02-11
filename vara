@@ -20,4 +20,4 @@ if max_number is not None:
     print(f"The maximum element in the list is: {max_number}")
 else:
     print("The list is empty.")
-qqqw
+ER
