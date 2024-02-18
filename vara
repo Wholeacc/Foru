@@ -7,7 +7,7 @@ def find_max_element(lst):
     else:
         max_element = lst[0]
         for element in lst:
-            if element > max_element:
+            if element > max_eltement:
                 max_element = element
         return max_element
 #left rigver ones
